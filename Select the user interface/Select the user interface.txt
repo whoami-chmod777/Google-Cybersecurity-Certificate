@@ -21,7 +21,7 @@ For example: mv old_name new_name
 Thank you for your response. A CLI would generally be more effective in this scenario. This is because CLIs allow you to perform multiple tasks simultaneously. In this case, you could rename all the files at once. If you used a GUI for this task, you would need to rename the files individually unless you had access to a special program for batch file renaming.
 
 
-3.
+
 Question 3
 
 You are installing multiple applications. You want to keep a history of commands while you install the applications. This will allow you to check later to ensure that you installed all of the necessary applications and that you installed them correctly.
